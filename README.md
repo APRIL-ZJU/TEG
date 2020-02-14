@@ -1,3 +1,5 @@
-# TEG: An Accurate and Efficient RGB-D Feature with Texture and Geometric Information
+# TEG: TExture and Geometric feature
+
+An accurate and efficient RGB-D feature with texture and geometric information.
 
 The proposed RGB benchmark dataset is here [ManipulatorsDataset](https://github.com/YongLiuZJU/RISAS/tree/master/ManipulatorsDataset). 
